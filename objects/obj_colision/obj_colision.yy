@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object1",
+  "%Name":"obj_colision",
   "eventList":[],
   "managed":true,
-  "name":"Object1",
+  "name":"obj_colision",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_colision",
+    "path":"sprites/spr_colision/spr_colision.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
