@@ -10,14 +10,14 @@
     {"name":"inst_6A8B6E80","path":"rooms/Cenario1/Cenario1.yy",},
     {"name":"inst_241CDD4","path":"rooms/Cenario1/Cenario1.yy",},
     {"name":"inst_3B15BAC8","path":"rooms/Cenario1/Cenario1.yy",},
-    {"name":"inst_37C86E5F","path":"rooms/Cenario1/Cenario1.yy",},
     {"name":"inst_6FEAB533","path":"rooms/Cenario1/Cenario1.yy",},
+    {"name":"inst_5598DF1A","path":"rooms/Cenario1/Cenario1.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"player","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_37C86E5F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_37C86E5F","objectId":{"name":"obj_player1","path":"objects/obj_player1/obj_player1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":416.0,"y":256.0,},
         {"$GMRInstance":"v1","%Name":"inst_6FEAB533","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6FEAB533","objectId":{"name":"Obj_Goblin1","path":"objects/Obj_Goblin1/Obj_Goblin1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":768.0,"y":96.0,},
+        {"$GMRInstance":"v1","%Name":"inst_5598DF1A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5598DF1A","objectId":{"name":"obj_player1","path":"objects/obj_player1/obj_player1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":512.0,"y":320.0,},
       ],"layers":[],"name":"player","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"colisores","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_6EAE66E3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6EAE66E3","objectId":{"name":"obj_colision","path":"objects/obj_colision/obj_colision.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":23.0,"x":-32.0,"y":0.0,},

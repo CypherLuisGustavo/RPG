@@ -16,7 +16,7 @@ estado = "idle";
 
 tempo_parado = 0;
 
-//Vida 
+//STATUS PLAYER 
 
 HP = 100;
 
