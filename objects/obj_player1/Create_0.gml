@@ -12,6 +12,8 @@ dir = "down";
 
 estado = "idle";
 
+global.movimento_travado = false;
+
 //Contador de tempo parado 
 
 tempo_parado = 0;
