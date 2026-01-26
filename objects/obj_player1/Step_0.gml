@@ -65,6 +65,19 @@ for (var i = 0; i < abs(velocidade_vertical); i++) {
     }
 }
 
+//correçao do erro da coalisao
+if (velocidade_horizontal != 0 && velocidade_vertical != 0) {
+    if (place_meeting(
+        x + sign(velocidade_horizontal),
+        y + sign(velocidade_vertical),
+        obj_colisor
+    )) {
+
+        x -= sign(velocidade_horizontal);
+        y -= sign(velocidade_vertical);
+    }
+}
+
 
 /// SONO
 if (tempo_parado >= 3600) {

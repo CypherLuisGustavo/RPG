@@ -1,8 +1,5 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
 
-
-//usando a velocidade vertical para mover personagen 
-
-move_and_collide(velocidade_horizontal, velocidade_vertical , all);
+depth = -bbox_bottom;
+x = round(x);
+y = round(y);
 

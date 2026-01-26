@@ -1,6 +1,6 @@
 //Atributo velocidade 
 
-velocidade = 1.2;
+velocidade = 1.8;
 velocidade_horizontal = 0;
 velocidade_vertical = 0;
 

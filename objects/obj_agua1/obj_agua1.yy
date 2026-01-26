@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_colisor",
+  "%Name":"obj_agua1",
   "eventList":[],
   "managed":true,
-  "name":"obj_colisor",
+  "name":"obj_agua1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_colisor",
-    "path":"sprites/spr_colisor/spr_colisor.yy",
+    "name":"spr_agua1",
+    "path":"sprites/spr_agua1/spr_agua1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
