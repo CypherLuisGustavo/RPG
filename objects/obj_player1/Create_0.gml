@@ -1,22 +1,28 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
+//Atributo velocidade 
 
-// variaves de controle
-up = noone;
-down = noone;
-left = noone;
-right = noone;
- 
-// variaveis de comando de movimento
-// personagen parado:
-
+velocidade = 1.8;
 velocidade_horizontal = 0;
 velocidade_vertical = 0;
 
-//*
+//direçao
 
-// personagem em movimento:
-velocidade = 2;
+dir = "down";
+
+//Estado 
+
+estado = "idle";
+
+global.movimento_travado = false;
+
+//Contador de tempo parado 
+
+tempo_parado = 0;
+
+//STATUS PLAYER 
+
+HP = 100;
+
+
 
 
 
